@@ -31,10 +31,28 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 </p>
 <br/>
 
-
+<p align="center">
+    <a href="https://github.com/Satya12325/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="balkishan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Satya12325&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 <br/>
 
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/Satya12325/github-readme-stats"><img alt="balkishan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Satya12325&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+
+<br/>
+<br/>
+
+
+<a href="https://github.com/Satya12325/github-readme-activity-graph"><img alt="balkishan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Satya12325&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
 <h3>Get in touch with me</h3>
 <p>

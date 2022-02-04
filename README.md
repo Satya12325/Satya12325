@@ -1,5 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Satyabrata Das</h1>
-<img align='right' src="https://media.giphy.com/media/2QpnSwLwr9fkDtiN4m/giphy.gif" width="230">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Satya12325&label=Profile%20views&color=129e00&style=plastic" alt="Satya12325" /> </p>
+
+<img align='right' src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47ujlr0uahs95slznce2ixmf10nan8vu1nqdktk1c5&rid=giphy.gif&ct=g" width="330">
+
 I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 <br/>
@@ -52,6 +56,11 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 <a href="https://github.com/Satya12325/github-readme-activity-graph"><img alt="balkishan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Satya12325&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
+
+
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboogoel01&show_icons=true&locale=en" alt="khushboogoel01" /></p>
+ -->
 <br/>
 
 <h3>Get in touch with me</h3>
@@ -70,6 +79,10 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
     </a>
 </p>
 <br />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Satya12325&show_icons=true&locale=en&layout=compact" alt="Satya12325" />
+<br/>
+<div>
 <a href="https://satya12325.github.io/Das-Satyabrata/">
     Visit my website
 </a>
+    </div>

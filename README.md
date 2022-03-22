@@ -84,9 +84,7 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Satya12325&show_icons=true&locale=en&layout=compact" alt="Satya12325" />
 <br/>
 <div>
-<a href="https://satya12325.github.io/Das-Satyabrata/">
-    Visit my website
-</a>
+
     </div>
     
   

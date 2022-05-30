@@ -1,4 +1,4 @@
-<!-- <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e473gjgvp6byod0z5j76c4apt442isr7ehntdglu9dq&rid=giphy.gif&ct=g" width="100%" height="200"/> -->
+<img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e473gjgvp6byod0z5j76c4apt442isr7ehntdglu9dq&rid=giphy.gif&ct=g" width="100%" height="200"/>
 <!-- <img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp?cid=ecf05e4732dzwmm5wqljusdteg8liuc9lszgybehmxi3x0bc&rid=200w.webp&ct=g" width="100%" height="200"/> -->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Satyabrata Das</h1>
 

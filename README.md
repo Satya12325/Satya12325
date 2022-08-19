@@ -12,7 +12,7 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 <br/>
 
 
-<a target="_blank" href="https://satya12325.github.io/Das-Satyabrata/">
+<a target="_blank" href="https://geeky-satya.netlify.app/">
     <b>My Portfolio Link</b>
 </a>
 <br />

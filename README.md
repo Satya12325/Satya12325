@@ -12,9 +12,7 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 <br/>
 
 
-<a target="_blank" href="https://geeky-satya.netlify.app/">
-    <b>My Portfolio Link</b>
-</a>
+
 <br />
 <br />
 🌱 I’m currently working on <b>MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJs)</b>
@@ -76,7 +74,7 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
     <a href="https://www.linkedin.com/in/satyabrata-das-32849b1a7/" target="_open">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a> 
-    <a href="mailto:satya12325@gmail.com" target="_open">
+    <a href="mailto:satyabrata.das.tech@gmail.com" target="_open">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
